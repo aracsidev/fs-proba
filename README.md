@@ -18,6 +18,7 @@ Navigate to server directory then run:
 > modify .env
 
 .env example:
+
 `SQL_HOST     = 127.0.0.1`
 
 `SQL_USER     = usern`
