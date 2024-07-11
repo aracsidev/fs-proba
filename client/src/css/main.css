@@ -49,6 +49,10 @@ body {
     cursor: auto;
 }
 
+.episode.episodes-bar p {
+    cursor: pointer;
+}
+
 .episodes-title {
     width: 100%;
     display: flex;
