@@ -43,5 +43,4 @@ Node:
 
 To update the frontend (not necessary) run:
 `npm run build`
-
 in the client directory (builds and copies files to server)
