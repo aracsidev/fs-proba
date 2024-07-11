@@ -13,9 +13,9 @@ Navigate to server directory then run:
 
 # Initial
 
-> Install mysql and set up a user
+- Install mysql and set up a user
 
-> modify .env
+- modify .env
 
 .env example:
 
