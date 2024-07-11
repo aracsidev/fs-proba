@@ -18,15 +18,11 @@ Navigate to server directory then run:
 > modify .env
 
 .env example:
-> SQL_HOST     = 127.0.0.1
-
-> SQL_USER     = usern
-
-> SQL_PASSWORD = passw
-
-> SQL_DATABASE = rickandmorty
-
-> PORT         = 3000
+`SQL_HOST     = 127.0.0.1
+SQL_USER     = usern
+SQL_PASSWORD = passw
+SQL_DATABASE = rickandmorty
+PORT         = 3000`
 
 Then in the server directory run:
 
